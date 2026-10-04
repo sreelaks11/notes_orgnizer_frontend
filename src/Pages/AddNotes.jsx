@@ -15,7 +15,6 @@ import { FaEdit } from "react-icons/fa"
 import Modal from '@mui/material/Modal'
 import { IoMdArrowBack } from "react-icons/io"
 import { RxCross1 } from "react-icons/rx"
-import { FaFileDownload } from "react-icons/fa"
 
 function AddNotes() {
 
